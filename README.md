@@ -17,7 +17,7 @@ Projeto Expenses do curso Aprenda Flutter & Dart e Construa APPs iOS e Android d
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/capa.png" width="100%">
+  <img alt="app expenses" src=".github/Capa.png" width="100%">
 </p>
 
 ---
