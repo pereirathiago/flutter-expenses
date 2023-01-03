@@ -58,4 +58,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com 💜 by Thiago Pereira 👋
+<p align="center">Feito com 💜 by Thiago Pereira 👋</p>
